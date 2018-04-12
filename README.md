@@ -19,3 +19,19 @@ We want to ensure Corporations
 
 We are looking for developers, designers, user experience advocates, and allied organizations and campaigns to build open tools that push the field forward and are available to all.
 
+# Tools for Open Advocacy
+
+## Lists
+* [Tools for Activism](https://github.com/mozilla/toolsforactivism)
+* [Prism-Break](https://prism-break.org/en/)
+
+
+### Social Media to spread the word 
+* [Diaspora](http://www.joindiaspora.org/)
+* [Mastodon](https://mastodon.social/)
+
+### Secure Communications
+#### Mailing lists
+* [Riseup](https://lists.riseup.net)
+#### Submit Files
+* [SecureDrop](https://securedrop.org/)
